@@ -4,7 +4,7 @@
 }
 body {
   color: #757575;
-  background-color: white;
+  background-color: #ffffff;
   font-family: 'roboto', sans-serif;
 }
 h1,
@@ -28,11 +28,6 @@ img {
 
   margin-right: auto;
   margin-left: auto;
-}
-.team-section {
-  background-color: #f5f4fa;
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 
 /* спрятал 2 заголовка и чекбокс*/
@@ -312,6 +307,12 @@ img {
 
   margin-bottom: 50px;
 }
+.team-section {
+  background-color: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .team-section__list {
   display: flex;
   justify-content: space-between;
@@ -451,7 +452,7 @@ img {
 }
 /* веб футер */
 .logo__white {
-  color: white;
+  color: #ffffff;
 }
 
 .footer-contacts {
@@ -475,7 +476,7 @@ img {
 }
 /* footer text only */
 .footer-contacts__text--white {
-  color: white;
+  color: #ffffff;
   margin-bottom: 9px;
 }
 .footer-flex {
